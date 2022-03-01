@@ -1,0 +1,13 @@
+{
+    "name": "serverpulsa/pulsa/digiflazz",
+    "description": "Package to integrate Tripay.co.id with laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zeros Technology",
+            "email": "admin@zeros.co.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
